@@ -80,7 +80,7 @@ graph TB
 # 2. Data Science and Python venv
 
 a. Explain in brief about data science : 
-suatu proses scientific untuk mentransformasikan data menjadi sebuah insight untuk membuat keputusan yang lebih baik. Tujuan umumnya sendiri untuk mengubah data menjadi actionable value making better decisions
+suatu proses scientific untuk mentransformasikan data menjadi sebuah insight agar dapat membuat keputusan yang lebih baik. Tujuan umumnya sendiri untuk mengubah data menjadi actionable value.
 
 b. What are the differences between data, data science, and data scientist? 
 - *Data* adalah kumpulan fakta, angka, kata, pengamatan, atau informasi berguna lainnya yang dikumpulkan dari berbagai sumber. Organisasi mengolah data mentah tersebut melalui proses pemrosesan dan analisis untuk menghasilkan wawasan yang dapat meningkatkan pengambilan keputusan. Dalam konteks kecerdasan buatan, data berfungsi sebagai “bahan bakar” yang memerlukan dua elemen utama: kuantitas dan kualitas yang memadai. referensi: https://www.ibm.com/think/topics/data?
