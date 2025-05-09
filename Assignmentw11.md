@@ -88,10 +88,10 @@ b. What are the differences between data, data science, and data scientist?
 - *Data Scientist* adalah profesionalnya yang ahli mengekstrak wawasan spesifik industri dari data mentah. Mereka memiliki keterampilan ilmu komputer dan ilmu murni (seperti statistik dan matematika) yang lebih mendalam daripada analis data biasa, serta pemahaman mendalam tentang domain bisnis di mana mereka bekerja. Seorang data scientist menggunakan data untuk memahami dan menjelaskan fenomena di sekitarnya, membantu organisasi mengambil keputusan yang lebih baik. referensi: https://www.coursera.org/articles/what-is-a-data-scientist?
 
 c. Explain about the four foundational aspects of data science?
-- Matematika: Akan mencakup konsep dasar matematika, seperti fungsi, relasi, asumsi, kesimpulan, dan abstraksi, sehingga konsep-konsep tersebut dapat digunakan untuk mendefinisikan dan memahami berbagai aspek manipulasi data.
-- Teknologi: Pengetahuan Python akan diperluas dari prasyarat dengan fungsi manipulasi tabel yang lebih canggih, latihan tambahan pada tugas pembersihan dan manipulasi data, penggunaan notebook komputasi (seperti Jupyter), serta GitHub untuk pengendalian versi dan publikasi proyek.
-- Visualisasi: Jenis plot baru akan dipelajari untuk berbagai tipe data dan tujuan komunikasi yang ingin dicapai. Prinsip umum tentang kapan dan bagaimana menggunakan visualisasi akan dipelajari.
-- Komunikasi: Cara menulis komentar dalam kode, dokumentasi kode, motivasi dalam notebook komputasi, interpretasi hasil dalam notebook komputasi, dan laporan teknis tentang hasil analisis. Kejelasan, kekonkretan (ringkas), dan pemahaman audiens sasaran akan menjadi prioritas.
+- Matematika: Fondasi ini mencakup konsep dasar matematika, seperti fungsi, relasi, asumsi, kesimpulan, dan abstraksi, sehingga konsep-konsep tersebut dapat digunakan untuk mendefinisikan dan memahami berbagai aspek manipulasi data.
+- Teknologi: Fondasi ini menjelaskan hal seperti pengetahuan tentang Python atau bahasa pemrograman lain yang akan memperluas kebutuhan seperti tugas manipulasi tabel, pembersihan dan manipulasi data, penggunaan notebook komputasi (seperti Jupyter), serta GitHub untuk pengendalian versi dan publikasi proyek.
+- Visualisasi: Fondasi ini mencakup memberikan informasi visual terkait jenis-jenis plot untuk berbagai tipe data yang bergantung pada tujuan komunikasi yang ingin dicapai, seperti memberikan visualisasi yang interaktif terkait bisnis melalui bentuk dashboard
+- Komunikasi: Fondasi ini mencakup cara-cara untuk menulis komentar dalam kode, dokumentasi kode, motivasi dalam notebook komputasi, interpretasi hasil dalam notebook komputasi, dan laporan teknis tentang hasil analisis. Kejelasan, kekonkretan (ringkas), dan pemahaman audiens sasaran menjadi prioritas dalam fondasi ini.
 
 d. List link on PyPI for installing JupyterNotebook, Matplotlib, NumPy.
 - Link untuk matplotlib: https://pypi.org/project/matplotlib/
